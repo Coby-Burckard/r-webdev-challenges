@@ -1,0 +1,23 @@
+{
+  "name": "r-webdev-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "week2.js",
+  "dependencies": {
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coby-Burckard/r-webdev-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coby-Burckard/r-webdev-challenges/issues"
+  },
+  "homepage": "https://github.com/Coby-Burckard/r-webdev-challenges#readme"
+}
